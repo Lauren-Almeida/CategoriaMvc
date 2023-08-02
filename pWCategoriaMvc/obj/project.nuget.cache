@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6KSZhZQ0c7d+j7hxsYLEqGOe/Nj/Ljc/GphYoJvZHIh00yrWzKnC44ceKJ+cliearQlX88/J2nsloZSwFEYcw==",
+  "dgSpecHash": "aNh9pCxw6wCN6kdvk/3BuvEpF96fxlOqTm1/LrSSUGrt+gSRxMuKVa99j0PzMY507a6MQSZ3FC4ADs2jlT4jLA==",
   "success": true,
-  "projectFilePath": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\pWCategoriaMvc.csproj",
+  "projectFilePath": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\pWCategoriaMvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,57 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = pWCategoriaMvc
 build_property.RootNamespace = pWCategoriaMvc
-build_property.ProjectDir = D:\ProjetosCurso\pWCategoriaMvc\pWCategoriaMvc\
+build_property.ProjectDir = D:\ProjetosCurso\CategoriaMvc\pWCategoriaMvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ProjetosCurso\pWCategoriaMvc\pWCategoriaMvc
+build_property.MSBuildProjectDirectory = D:\ProjetosCurso\CategoriaMvc\pWCategoriaMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Account/Login.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Categorias/AtualizarCategoria.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Categorias/AtualizarCategoria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xBdHVhbGl6YXJDYXRlZ29yaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Categorias/CriarNovaCategoria.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Categorias/CriarNovaCategoria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmlhck5vdmFDYXRlZ29yaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Categorias/DeletarCategoria.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Categorias/DeletarCategoria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGFyQ2F0ZWdvcmlhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Categorias/Index.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Home/Index.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Shared/Error.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Produtos/AtualizarProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQXR1YWxpemFyUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Produtos/CriarNovoProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JpYXJOb3ZvUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Produtos/DeletarProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRhclByb2R1dG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Produtos/DetalhesProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWxoZXNQcm9kdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Shared/_LoginPartial.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/_ViewImports.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/_ViewStart.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ProjetosCurso/pWCategoriaMvc/pWCategoriaMvc/Views/Shared/_Layout.cshtml]
+[D:/ProjetosCurso/CategoriaMvc/pWCategoriaMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aqsyqenrus

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\pWCategoriaMvc.csproj",
+      "projectUniqueName": "d:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\pWCategoriaMvc.csproj",
       "projectName": "pWCategoriaMvc",
-      "projectPath": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\pWCategoriaMvc.csproj",
+      "projectPath": "d:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\pWCategoriaMvc.csproj",
       "packagesPath": "C:\\Users\\lauren.goncalves\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\obj\\",
+      "outputPath": "d:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lauren.goncalves\\AppData\\Roaming\\NuGet\\NuGet.Config"

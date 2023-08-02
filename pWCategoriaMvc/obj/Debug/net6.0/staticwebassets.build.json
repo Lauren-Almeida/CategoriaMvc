@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JiyciLo+TzRTWJv0mXadM0e2tdfIUMN21nnzIXJ+aKc=",
+  "Hash": "awjkEglfzdahjlkw5+Y5yjDopb1nGSi/eE9eT/NC4sI=",
   "Source": "pWCategoriaMvc",
   "BasePath": "_content/pWCategoriaMvc",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "pWCategoriaMvc\\wwwroot",
       "Source": "pWCategoriaMvc",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\pWCategoriaMvc.styles.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\pWCategoriaMvc.styles.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "pWCategoriaMvc.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\pWCategoriaMvc.styles.css"
+      "OriginalItemSpec": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\pWCategoriaMvc.styles.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\pWCategoriaMvc.bundle.scp.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\pWCategoriaMvc.bundle.scp.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "pWCategoriaMvc.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\pWCategoriaMvc.bundle.scp.css"
+      "OriginalItemSpec": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\pWCategoriaMvc.bundle.scp.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\css\\site.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\css\\site.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\favicon.ico",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\favicon.ico",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\araras.jpg",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\bebidas.png",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
-      "RelativePath": "imagens/araras.jpg",
+      "RelativePath": "imagens/bebidas.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagens\\araras.jpg"
+      "OriginalItemSpec": "wwwroot\\imagens\\bebidas.png"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\coruja.jpg",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\bolinha.jpg",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
-      "RelativePath": "imagens/coruja.jpg",
+      "RelativePath": "imagens/bolinha.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagens\\coruja.jpg"
+      "OriginalItemSpec": "wwwroot\\imagens\\bolinha.jpg"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\Josapar-wallpaper.jpeg",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\coca-cola.jpeg",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
-      "RelativePath": "imagens/Josapar-wallpaper.jpeg",
+      "RelativePath": "imagens/coca-cola.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagens\\Josapar-wallpaper.jpeg"
+      "OriginalItemSpec": "wwwroot\\imagens\\coca-cola.jpeg"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\periquitos.jpg",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\coca-cola.jpg",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
-      "RelativePath": "imagens/periquitos.jpg",
+      "RelativePath": "imagens/coca-cola.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,13 +150,132 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagens\\periquitos.jpg"
+      "OriginalItemSpec": "wwwroot\\imagens\\coca-cola.jpg"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\js\\site.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\lanches.jpg",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "BasePath": "_content/pWCategoriaMvc",
+      "RelativePath": "imagens/lanches.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\lanches.jpg"
+    },
+    {
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\lanches.png",
+      "SourceId": "pWCategoriaMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "BasePath": "_content/pWCategoriaMvc",
+      "RelativePath": "imagens/lanches.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\lanches.png"
+    },
+    {
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\pets.png",
+      "SourceId": "pWCategoriaMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "BasePath": "_content/pWCategoriaMvc",
+      "RelativePath": "imagens/pets.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\pets.png"
+    },
+    {
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\produtos.png",
+      "SourceId": "pWCategoriaMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "BasePath": "_content/pWCategoriaMvc",
+      "RelativePath": "imagens/produtos.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\produtos.png"
+    },
+    {
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\pudim.jpg",
+      "SourceId": "pWCategoriaMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "BasePath": "_content/pWCategoriaMvc",
+      "RelativePath": "imagens/pudim.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\pudim.jpg"
+    },
+    {
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\sanduiche.jpg",
+      "SourceId": "pWCategoriaMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "BasePath": "_content/pWCategoriaMvc",
+      "RelativePath": "imagens/sanduiche.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\sanduiche.jpg"
+    },
+    {
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\imagens\\sobremesas.png",
+      "SourceId": "pWCategoriaMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "BasePath": "_content/pWCategoriaMvc",
+      "RelativePath": "imagens/sobremesas.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\sobremesas.png"
+    },
+    {
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\js\\site.js",
+      "SourceId": "pWCategoriaMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -170,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -187,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -204,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -221,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -238,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -255,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -272,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -289,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -306,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -323,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -340,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -357,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -374,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -391,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -408,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -425,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -442,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -459,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -476,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -493,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -510,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -527,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -544,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -578,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -595,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -612,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -629,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -646,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -663,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -680,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -697,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -714,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -731,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -748,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -765,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -782,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -799,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -816,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -833,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -850,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -867,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -884,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -901,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -918,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -935,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -952,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -969,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -986,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1003,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1020,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1037,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1054,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1071,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1088,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1105,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1122,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "pWCategoriaMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjetosCurso\\pWCategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
+      "ContentRoot": "D:\\ProjetosCurso\\CategoriaMvc\\pWCategoriaMvc\\wwwroot\\",
       "BasePath": "_content/pWCategoriaMvc",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
